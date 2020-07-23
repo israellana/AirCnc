@@ -64,15 +64,32 @@ The project was developed using the following technologies:
 
 1. Clone the repo
 
-`git clone https://github.com/israellana/ecoleta-nlw.git`
+`git clone https://github.com/israellana/AirCnc.git`
 
-2. Install NPM packages
+2. Install Backend Dependencies
 
+`cd backend`
 `npm install`
 
-3. Start the server
+3. Install Frontend Dependencies
 
-`npm start`
+`cd frontend`
+`npm install`
+
+4. Install Frontend Dependencies
+
+`cd mobile`
+`npm install`
+
+5. Start the server
+
+`cd backend`
+`yarn dev`
+
+6. Start the Frontend
+
+`cd frontend`
+`yarn start`
 
 <a name="contribute"></a>
 ### Contributing
@@ -90,4 +107,4 @@ Contributions are what make the open source community such an amazing place to b
 
 Israel Lana - [Linkedin](https://www.linkedin.com/in/israel-lana-0ab3a512a/) - [E-mail](mailto:israellana_@hotmail.com)
 
-Project Link: https://github.com/israellana/ecoleta-nlw
+Project Link: https://github.com/israellana/AirCnc
